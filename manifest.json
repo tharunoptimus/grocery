@@ -1,0 +1,17 @@
+{
+    "short_name": "Grocery",
+    "name": "Grocery",
+    "description": "List of Grocery Items to Buy",
+    "icons": [
+      {
+        "src": "logo512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#1fa2f1",
+    "display": "standalone",
+    "theme_color": "#1fa2f1"
+  }
